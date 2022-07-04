@@ -11,5 +11,4 @@
 ---
   ![MandarinePunch's github stats](https://github-readme-stats.vercel.app/api?username=MandarinePunch&show_icons=true&theme=flag-india)
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudfkr7845)](https://solved.ac/dudfkr7845/)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudfkr7845)](https://solved.ac/dudfkr7845/)
