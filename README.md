@@ -1,6 +1,6 @@
 <div align="center">
   ![header](https://capsule-render.vercel.app/api?type=waving&color=ff9933&height=300&section=header&text=Mandarine%20Punch&fontSize=90&fontColor=ffffff)
-<div>
+</div>
 
 # 🧰 stacks
 ---
