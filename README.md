@@ -11,3 +11,12 @@
 ### 📝 stat
 ![MandarinePunch's github stats](https://github-readme-stats.vercel.app/api?username=MandarinePunch&show_icons=true&theme=flag-india)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudfkr7845)](https://solved.ac/dudfkr7845/)
+
+### 📫 Contacts
+<a href="https://velog.io/@mandarine_punch">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
+<a href="mailto:dudfkr7845@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
+
