@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff9933&height=300&section=header&text=Mandarine%20Punch&fontSize=90&fontColor=ffffff)
 
 # 🧰 stacks
-platform & language
+### platform & language
   <img src="https://img.shields.io/badge/Java-027396?style=flat-square&logo=Java&logoColor=white"/>&nbsp; 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
