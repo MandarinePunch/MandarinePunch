@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>&nbsp;
   
-### 📝 stat
+### 📝 Stats
 ![MandarinePunch's github stats](https://github-readme-stats.vercel.app/api?username=MandarinePunch&show_icons=true&theme=flag-india)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudfkr7845)](https://solved.ac/dudfkr7845/)
 
